@@ -6,4 +6,4 @@ Hi 👋 I'm Ganesh Padhy
 🎯 Goal: Full Stack Developer @ TCS
 
 📫 Contact: ganeshpadhy2007@gmail.com
-🌐 Portfolio: ganeshpadhy007-collab.github.io/ganesh-portfolio/
+🌐 Portfolio: https://ganeshpadhy007-collab.github.io/portfolio-2//
