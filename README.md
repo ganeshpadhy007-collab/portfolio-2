@@ -2,7 +2,7 @@ Hi 👋 I'm Ganesh Padhy
 
 🎓 BCA 1st Semester @ Disha College, Berhampur 
 💻 Web Developer | HTML, CSS, JavaScript
-🚀 8 Live Projects deployed on GitHub Pages
+🚀 9 Live Projects deployed on GitHub Pages
 🎯 Goal: Full Stack Developer @ TCS
 
 📫 Contact: ganeshpadhy2007@gmail.com
